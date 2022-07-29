@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "next": "^12.2.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "proj",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "dev": "Next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigifg/cc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luigifg/cc/issues"
+  },
+  "homepage": "https://github.com/luigifg/cc#readme"
+}
